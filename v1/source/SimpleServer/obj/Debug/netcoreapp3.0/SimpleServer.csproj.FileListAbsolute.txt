@@ -1,0 +1,7 @@
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.csprojAssemblyReference.cache
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.DownloadVer.resources
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.SimpleServer.resources
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.csproj.GenerateResource.cache
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.AssemblyInfoInputs.cache
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.AssemblyInfo.cs
+H:\Mine\Code\C#\SimpleServer\SimpleServer\obj\Debug\netcoreapp3.0\SimpleServer.csproj.CoreCompileInputs.cache
